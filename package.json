@@ -1,21 +1,21 @@
 {
-  "name": "web-3-test",
+  "name": "dev-3-test",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://github.com/VadimVyalov/web-3-test",
+  "homepage": "https://github.com/VadimVyalov/dev-3-test",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /web-3-test/"
+    "build": "parcel build src/*.html --public-url /dev-3-test/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/VadimVyalov/web-3-test.git"
+    "url": "git+https://github.com/VadimVyalov/dev-3-test.git"
   },
   "keywords": [],
   "author": "Vadim Vyalov <vyalov.vadim@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/VadimVyalov/web-3-test/issues"
+    "url": "https://github.com/VadimVyalov/dev-3-test/issues"
   },
   "dependencies": {
     "modern-normalize": "^1.1.0"
